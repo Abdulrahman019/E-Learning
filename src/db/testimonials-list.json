@@ -1,0 +1,67 @@
+[
+  {
+    "id":1,
+    "img":"img-1",
+    "fullName":"John Doe",
+    "jobTitle":"Senior Developer",
+    "twitterHandler":"@johndoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":2,
+    "img":"img-2",
+    "fullName":"Alex Smith",
+    "jobTitle":"junior Developer",
+    "twitterHandler":"@alexsmith",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":3,
+    "img":"img-3",
+    "fullName":"Jane Doe",
+    "jobTitle":"Tester",
+    "twitterHandler":"@janedoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":4,
+    "img":"img-4",
+    "fullName":"Jinnifer Doe",
+    "jobTitle":"Backend Developer",
+    "twitterHandler":"@jinniferdoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":5,
+    "img":"img-5",
+    "fullName":"Jeff Doe",
+    "jobTitle":"Frontend Developer",
+    "twitterHandler":"@jeffdoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":6,
+    "img":"img-6",
+    "fullName":"John Doe",
+    "jobTitle":"Manager",
+    "twitterHandler":"@johndoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":7,
+    "img":"img-7",
+    "fullName":"John Doe",
+    "jobTitle":"Senior Developer",
+    "twitterHandler":"@johndoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  },
+  {
+    "id":8,
+    "img":"img-8",
+    "fullName":"John Doe",
+    "jobTitle":"Senior Developer",
+    "twitterHandler":"@johndoe",
+    "text":"Ex nulla commodo exercitation adipisicing commodo nostrud."
+  }
+  
+]
